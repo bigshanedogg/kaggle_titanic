@@ -1,2 +1,2 @@
 # kaggle_titanic
-kaggle_titanic practice
+Practicing kaggle_titanic with various machine-learning technique such as K-NN, Decision Tree.
